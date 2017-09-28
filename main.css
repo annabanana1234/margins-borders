@@ -1,0 +1,26 @@
+body {
+    background-color: #c17c36;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+}
+
+h1 {
+    color: #880000;
+    border: 5px Dotted;
+    border-radius: 20px
+    padding: 32px;
+    text-align: center;
+}
+
+h2 {
+text-align: left;
+border-left: 20px line;
+
+}
+
+p {
+  text-align: center;
+border-left: 5px solid;
+padding-left: 20px;
+}
